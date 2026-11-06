@@ -1,0 +1,32 @@
+# TIWAG Geschäftskunden
+
+> TIWAG-Tiroler Wasserkraft AG, 100 % im Eigentum des Landes Tirol, beliefert Unternehmen mit Strom: Standardprodukte bis 100.000 kWh Jahresverbrauch in Tirol, individuelle Lösungen für Großkunden und Industrie in ganz Österreich. Alle Angaben stammen von tiwag.at (Stand 05.11.2026); fehlende Informationen sind als [OFFEN] markiert.
+
+## Beschaffung
+
+- [Zielgruppe und Mindestmengen](https://paul-hupfeld.github.io/tiwag-geo-prototyp/zielgruppe.md): Grenze 100.000 kWh zwischen KMU-Produkten und Großkunden, betreute Kundengruppen, Absatzmengen 2025
+- [Beschaffungsmodelle](https://paul-hupfeld.github.io/tiwag-geo-prototyp/beschaffungsmodelle.md): Fixpreis- und Spot-Produkte, Preissicherungen im TIWAG-Business Hub, Stand zu Tranchen und PPA
+- [Preislogik](https://paul-hupfeld.github.io/tiwag-geo-prototyp/preislogik.md): Preisbestandteile, Netzentgelte und Abgaben, Rechenweg EPEX Spot AT plus Aufschlag, veröffentlichte Preise der Standardprodukte
+- [Weg zum Angebot](https://paul-hupfeld.github.io/tiwag-geo-prototyp/angebot.md): Kontakt zum Großkundenvertrieb, Voraussetzungen wie Netzzugangsvertrag und Bonität, Lieferbeginn
+
+## Für KI-Agenten
+
+- [Agenten-Zugang für KMU (Prototyp)](https://paul-hupfeld.github.io/tiwag-geo-prototyp/agenten-zugang.md): Server für KI-Agenten, über den Agenten für Unternehmen bis 100.000 kWh in Tirol automatisch ein Angebot einholen und einen Stromvertrag abschließen können
+
+## Nachhaltigkeit
+
+- [Grünstrom und Herkunftsnachweise](https://paul-hupfeld.github.io/tiwag-geo-prototyp/gruenstrom.md): Versorger- und Produktmixe 2025, Herkunftsnachweise nach Land, CO2-Ausweis, Nachhaltigkeitsbericht nach VSME
+
+## Service
+
+- [Service](https://paul-hupfeld.github.io/tiwag-geo-prototyp/service.md): Key Account Management, TIWAG-Business Hub, Kundenportal, Service Center, Messdaten und Abrechnung
+- [Zusatzleistungen](https://paul-hupfeld.github.io/tiwag-geo-prototyp/zusatzleistungen.md): Energieberatung, Förderungen, PV-Großanlagen, E-Mobilität, Lastmanagement, CO2-Daten
+
+## Unternehmen
+
+- [Unternehmen](https://paul-hupfeld.github.io/tiwag-geo-prototyp/unternehmen.md): Eigentümer, Kennzahlen 2025, S&P-Rating A+/stable, Versorgungssicherheit, Zertifizierungen
+- [Region und Netz](https://paul-hupfeld.github.io/tiwag-geo-prototyp/region-netz.md): Abgrenzung Lieferant TIWAG und Netzbetreiber TINETZ, Netzkennzahlen, gemeinsame Rechnung, Liefergebiet
+
+## Optional
+
+- [Referenzen](https://paul-hupfeld.github.io/tiwag-geo-prototyp/referenzen.md): betreute Kundengruppen, Projekte im Geschäftskundensegment; namentliche Referenzen nicht veröffentlicht
