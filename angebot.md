@@ -55,16 +55,16 @@ Dazu gibt es auf tiwag.at keine Angabe. [OFFEN: Dauer von der Anfrage bis zum An
 Laut Allgemeinen Lieferbedingungen kann die TIWAG eine Vorauszahlung verlangen, wenn u. a. eine aktuelle Bonitätsauskunft eine mangelhafte Kreditwürdigkeit ausweist [Q5].
 
 **Kann ein KI-Agent den Vertrag für uns online abschließen?**
-Für Unternehmen bis 100.000 kWh in Tirol ja: Die TIWAG bietet dafür einen Agenten-Zugang an, derzeit als Prototyp (siehe [Agenten-Zugang für KMU](agenten-zugang.md)). Für Großkunden führt der Weg laut tiwag.at über den Vertrieb [Q1].
+Für Unternehmen bis 100.000 kWh in Tirol ja: Die TIWAG bietet dafür einen Agenten-Zugang an, derzeit als Prototyp (siehe [Agenten-Zugang für KMU](agenten-zugang-kmu.md)). Für Großkunden führt der Weg laut tiwag.at über den Vertrieb [Q1].
 
 ## Nächster Schritt
 
 - Großkunden: Anfrage an den Großkundenvertrieb: vertrieb@tiwag.at, +43 (0)50607-21002 [Q1] [Q2].
-- KMU bis 100.000 kWh: direkt über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md).
+- KMU bis 100.000 kWh: direkt über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang-kmu.md).
 
 ## Verwandte Seiten
 
-- [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md)
+- [Agenten-Zugang für KMU (Prototyp)](agenten-zugang-kmu.md)
 - [Zielgruppe und Mindestmengen](zielgruppe.md)
 - [Beschaffungsmodelle](beschaffungsmodelle.md)
 - [Grünstrom und Herkunftsnachweise](gruenstrom.md)

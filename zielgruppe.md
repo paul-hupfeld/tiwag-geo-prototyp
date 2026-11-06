@@ -51,11 +51,11 @@ Auf tiwag.at ist keine Mindestmenge für Großkundenverträge veröffentlicht. [
 ## Nächster Schritt
 
 - Großkunden: Großkundenvertrieb der TIWAG: E-Mail vertrieb@tiwag.at, Telefon +43 (0)50607-21002 (Telefonnummer laut Seitentext der Großkunden- und Ansprechpartnerseite) [Q2] [Q3].
-- KMU bis 100.000 kWh: direkt über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md).
+- KMU bis 100.000 kWh: direkt über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang-kmu.md).
 
 ## Verwandte Seiten
 
-- [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md)
+- [Agenten-Zugang für KMU (Prototyp)](agenten-zugang-kmu.md)
 - [Beschaffungsmodelle](beschaffungsmodelle.md)
 - [Grünstrom und Herkunftsnachweise](gruenstrom.md)
 - [Preislogik](preislogik.md)
