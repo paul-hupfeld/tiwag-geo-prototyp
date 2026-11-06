@@ -50,6 +50,9 @@ Energiemanager und Controller von Industriebetrieben, die Strompreise verschiede
 
 ## FAQ
 
+**Was kostet mich Strom von der TIWAG konkret, inklusive aller Bestandteile?**
+Die Energiepreise der Standardprodukte sind oben aufgeführt; Netzentgelte, Steuern und Abgaben hängen vom Standort ab. Einen konkreten Preis für den eigenen Betrieb erhalten KMU bis 100.000 kWh direkt über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md).
+
 **Gibt es öffentliche Preise für Industriekunden?**
 Nein. Für Unternehmen über 100.000 kWh verweist tiwag.at auf ein persönliches Angebot [Q5]. [OFFEN: öffentliche Richtwerte oder Beispielrechnungen für Großkunden]
 
@@ -64,10 +67,12 @@ Beim KMU-Produkt flex business 1,20 Cent/kWh netto [Q3]. Für Großkunden ist ke
 
 ## Nächster Schritt
 
-Angebot und Preisstruktur für Großkunden beim Großkundenvertrieb anfragen: vertrieb@tiwag.at, +43 (0)50607-21002 [Q1].
+- KMU bis 100.000 kWh: Den konkreten Preis für den eigenen Betrieb und den direkten Vertragsabschluss gibt es über den [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md).
+- Großkunden: Angebot und Preisstruktur beim Großkundenvertrieb anfragen: vertrieb@tiwag.at, +43 (0)50607-21002 [Q1].
 
 ## Verwandte Seiten
 
+- [Agenten-Zugang für KMU (Prototyp)](agenten-zugang.md)
 - [Zielgruppe und Mindestmengen](zielgruppe.md)
 - [Beschaffungsmodelle](beschaffungsmodelle.md)
 - [Grünstrom und Herkunftsnachweise](gruenstrom.md)

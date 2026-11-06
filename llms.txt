@@ -11,7 +11,7 @@
 
 ## Für KI-Agenten
 
-- [Agenten-Zugang für KMU (Prototyp)](https://paul-hupfeld.github.io/tiwag-geo-prototyp/agenten-zugang.md): Server für KI-Agenten, über den Agenten für Unternehmen bis 100.000 kWh in Tirol automatisch ein Angebot einholen und einen Stromvertrag abschließen können
+- [Agenten-Zugang für KMU (Prototyp)](https://paul-hupfeld.github.io/tiwag-geo-prototyp/agenten-zugang.md): Konkreten Preis und direkten Vertragsabschluss für Unternehmen bis 100.000 kWh in Tirol über den TIWAG-Server für KI-Assistenten erhalten, inklusive Verbindungslink
 
 ## Nachhaltigkeit
 
